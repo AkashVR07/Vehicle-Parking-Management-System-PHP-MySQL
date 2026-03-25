@@ -85,4 +85,4 @@ The project uses a well-structured MySQL database named `vpmsdb` with the follow
 *   **`tblvehicle`**: The core table that logs all vehicle parking sessions, including timestamps, charges, and status.
 ---
 
-**Enjoy managing your parking with VPMS!**
+**😉 Enjoy managing your parking with VPMS!**
